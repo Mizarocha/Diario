@@ -1,7 +1,10 @@
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/88461178/214158133-cecc9c01-4925-458e-a5da-bc33452576f1.png" alt="logo" width="400">
+</h1>
 
-<h1 align="center">Curso EuProgrAmo Front-End #2 - PrograMaria - 2023</h1>
+<h2 align="center"> 
+Foi abordado 8 módulos no curso com os seguintes temas:</h2>
 
-<h3 align="center">Foi abordado 8 módulos no curso com os seguintes temas:</h3>
 
  🛩️ Todes à bordo!   
 👩‍💻  Esquentando os motores!      
