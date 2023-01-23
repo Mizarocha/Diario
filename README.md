@@ -6,7 +6,7 @@
 Foi abordado 8 módulos no curso com os seguintes temas:</h2>
 
 
- 🛩️ Todes à bordo!   
+ 🛩️ Todos à bordo!   
 👩‍💻  Esquentando os motores!      
  🩻 Apresentando novas tags HTML!    
 🎨  CSS e layouts responsivos!    
