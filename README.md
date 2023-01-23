@@ -36,6 +36,10 @@
 <img src="https://user-images.githubusercontent.com/88461178/214146286-c27fa84b-bccf-4e43-9155-c54dd1a959fc.jpg">
 </div>
 
+<h3 align="center">
+  Pages: https://mizarocha.github.io/Diario/</h3>
+
+
 <h3 align="center"> Autora: Artemiza Rocha </h3>   
 
 <div align="center">
