@@ -11,7 +11,7 @@ function diaryList() {
       name: "Viajar",
       image: "./img/viajar.png",
       description:
-        "Amo viajar, conhecer os lugares e pessoas, viajar quebra a rotina, te faz dar uma pausa, esquecer os problemas e ter tempo de para ficar na companhia de quem você mais ama. Isso te ajuda a manter-se feliz e de bem com a vida. Te faz conectar consigo mesma ,te faz ficar leve, revigorada e renovada.",
+        "Amo viajar, conhecer os lugares e pessoas, viajar quebra a rotina, te faz dar uma pausa, esquecer os problemas e ter tempo de ficar na companhia de quem você mais ama. Isso te ajuda a manter-se feliz e de bem com a vida. Te faz conectar consigo mesma ,te faz ficar leve, revigorada e renovada.",
       message: "Viajar colabora para a sua felicidade, viajar é vida!",
     },
     robi03: {
