@@ -40,7 +40,7 @@ Foi abordado 8 módulos no curso com os seguintes temas:</h2>
 </div>
 
 <h3 align="center">
-  Pages:https://mizarocha.github.io/Diario/</h3>
+  Pages: https://mizarocha.github.io/Diario/</h3>
 
 
 <h3 align="center"> Autora: Artemiza Rocha </h3>   
