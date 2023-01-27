@@ -5,7 +5,7 @@ function diaryList() {
       image: "./img/Deus.png",
       description:
         "Amo está na presença de Deus, gosto de ir a igreja, Deus é meu pai o todo poderoso, ele está em toda parte ao mesmo tempo, ao redor de mim e de você e dentro de nós. Não podemos vê-lo e nem tocá-lo, mas sim sentir, sentimos com a fé e compreendemos com os sinais. Deus é vida, é alegria, é amor, é perdão, é compaixão, é união.",
-      message: "Amai-vos, uns aos outros como eu nos amei!",
+      message: "Amai-vos, uns aos outros como eu vos amei!",
     },
     robi02: {
       name: "Viajar",
