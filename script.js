@@ -39,7 +39,7 @@ function diaryList() {
       name: "Conhecimento",
       image: "./img/conhecimento.png",
       description:
-        "Eu sou apaixonada em aprender de ter conhecimento das coisas, saber das informações e passar algo para outras pessoas, auxiliar nos estudos, em diálogo e decisões, é muito importante te faz ter maturidade. Sem conhecimento você não chega a lugar nenhum e não consegui nada, o conhecimento transforma vidas, utilizando corretamente é capaz de construir um mundo melhor. Eu estou a cada dia buscando conhecimentos, evoluindo para meu crescimento e para o próximo.",
+        "Eu sou apaixonada em aprender de ter conhecimento das coisas, saber das informações e passar algo para outras pessoas, auxiliar nos estudos, em diálogo e decisões, é muito importante te faz ter maturidade. Sem conhecimento você não chega a lugar nenhum e não consegue nada, o conhecimento transforma vidas, utilizando corretamente é capaz de construir um mundo melhor. Eu estou a cada dia buscando conhecimentos, evoluindo para meu crescimento e para o próximo.",
       message:
         "Conhecimento é descobrir, compreender, compartilhar e construir!",
     },
